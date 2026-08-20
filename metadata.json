@@ -1,0 +1,6 @@
+{
+  "name": "AETHER - Futuristic Personal AI Assistant",
+  "description": "Adaptive Engine for Technological Hyperintelligence, Exploration, and Research (AETHER). Advanced futuristic personal AI command center for Nishant with Firebase Authentication, Biometric WebAuthn passkey gate, voice synthesis, camera vision analysis, Gemini reasoning, Google Tasks workspace sync, tool orchestration, space & research modules, and system telemetry.",
+  "requestFramePermissions": ["camera", "microphone", "geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
